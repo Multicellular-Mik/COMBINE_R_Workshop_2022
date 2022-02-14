@@ -16,8 +16,8 @@ The files required to for the tutorial can be downloaded from the "COMBINE_R_Wor
 
 Files:  
 [Day 1] Slides - https://docs.google.com/presentation/d/1fxfKBAn_0cr6aaxfNeZqHDKe5MbSc7wR-qypdS5SQSc/edit?usp=sharing  
-[Day 2] Slides -  [To be added] 
-Required Files (r-intro-2-files) - [To be added] We need to add the files to COMBINE drive  
+[Day 2] Slides -  [To be added]   
+Required Files (r-intro-2-files) - [To be added] *We need to add the files to COMBINE drive*      
 
 Parent Folder:   
 https://drive.google.com/drive/folders/1NpMdrtIqP4qXT2bYkmzWQ8pHKRzAnFpy?usp=sharing  
