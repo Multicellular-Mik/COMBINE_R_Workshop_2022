@@ -15,7 +15,7 @@ In this workshop we will go through how we can use R tools to perform bioinforma
 The files required to for the tutorial can be downloaded from the "COMBINE_R_Workshop_2022" Github repository or through the Google Drive links below.
 
 Files:  
-[Day 1] Slides - https://docs.google.com/presentation/d/1AseGWAS-fI8869V_gIvDs6JI0Uf9STpMJLwTJzREG1Y/edit?usp=sharing 
+[Day 1] Slides - https://docs.google.com/presentation/d/1AseGWAS-fI8869V_gIvDs6JI0Uf9STpMJLwTJzREG1Y/edit?usp=sharing   
 [Day 2] Slides - https://docs.google.com/presentation/d/1x0GYKQR3f3Vn5mB3IV7vGpc0os87qMd28tDuw3fnOq4/edit?usp=sharing  
 Required Files (r-intro-2-files) - [To be added] *We need to add the files to COMBINE drive*      
 
