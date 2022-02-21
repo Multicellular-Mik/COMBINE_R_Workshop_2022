@@ -3,6 +3,7 @@ COMBINE - R Workshop (2022)
 
 Instructors:
 - Akriti
+- Akari
 - Carissa
 - Gaby
 - Mik
